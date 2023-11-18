@@ -474,7 +474,7 @@ ui_print "| Based On Unitrix by GhostMaster69-dev. |";
 ui_print "==========================================";
 ui_print "|  Kernel         : Cygnus               |";
 ui_print "|  Version        : v2.0                 |";
-ui_print "|  KSU Version    : KernelSU-v0.7.0      |";
+ui_print "|  KSU Version    : KernelSU-v0.7.1      |";
 ui_print "|  Device         : Redmi 5 Plus         |";
 ui_print "|  Linux version  : 4.9                  |";
 ui_print "|  Compiler       : Android clang        |";
